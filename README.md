@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @renatomsq
-- 👀 I'm interested in data stuff, mostly databases, SQL Server and MongoDb stuff.
-- 🌱 I'm currently learning NoSQL and building some SQL Server Skills.
+- 👀 I'm interested in data stuff, mostly database technologies, such as MSSQL, MySQL, MongoDb, etc.
 - 💞️ I'm looking to collaborate on database scripts, mainly the scripts that I use in a daily basis or used for solve specific problems.
 - 📫 How to reach me? Twitter (@radrenato) or e-mail (rad_renato@hotmail.com) are my public info. I'll try my best to answer when it's possible.
 
